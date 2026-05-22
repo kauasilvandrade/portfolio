@@ -1,7 +1,9 @@
+import { Header } from "./sections/Header";
+
 export function App() {
   return (
-    <div>
-      <h1>APP</h1>
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
